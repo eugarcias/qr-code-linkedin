@@ -7,7 +7,7 @@
     font-family: 'Nexa-Heavy';
     src: url('font/Nexa-Heavy.ttf');
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 868px) {
     section {
         width: 90%;
         height: auto;
